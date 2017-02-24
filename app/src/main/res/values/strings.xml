@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+
+    <!-- hint for the edittext search field-->
+    <string name="hint_search">Search</string>
+
+    <!-- text for the search button-->
+    <string name="search_button">Search</string>
+
+    <!--text to show when no search term is given -->
+    <string name="empty_state">Please enter a search term by pressing the search button in the upper right corner to look for books.</string>
+
+    <!-- text to display if there s no internet connection -->
+    <string name="no_internet">No internet connection. Please make an internet connection and try again.</string>
+</resources>
